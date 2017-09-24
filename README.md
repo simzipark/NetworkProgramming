@@ -1,4 +1,3 @@
-NetworkProgramming
 Network Programming Class in 2017
 
 # TCPEchoClient-Server
